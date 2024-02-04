@@ -7,11 +7,14 @@
 - It can also send messages on whatsapp.
 
 ## A preview of the GUI
-- ![Screenshot 2023-11-25 121149](https://github.com/Sangamesh136/OptimusAssistant/assets/120083486/6d3362b4-faeb-4ec1-9b07-08a9c870f867)
+ ![Screenshot 2023-11-25 121149](https://github.com/Sangamesh136/OptimusAssistant/assets/120083486/6d3362b4-faeb-4ec1-9b07-08a9c870f867)
 
 ## How to run
 - Clone the code from the github, or download the zip file and extract it.
 - Install all the dependencies using the pip command
 - Then simple run the code.
 
-- auther: @Sangamesh136
+
+
+
+auther: @Sangamesh136
